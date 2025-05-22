@@ -62,12 +62,12 @@ cd mint-dev-setup
 3. **Dê permissão de execução para o script:**
 
 ```bash
-chmod +x instalador.sh
+chmod +x dev-setup.sh
 ```
 
 4. **Execute o script:**
 ```bash
-./instalador.sh
+./dev-setup.sh
 ```
 
 ### Comandos rápidos (sem git)
@@ -76,8 +76,8 @@ Se preferir sem usar git, execute diretamente:
 
 ```bash
 wget https://raw.githubusercontent.com/seu-usuario/mint-dev-setup/main/instalador.sh
-chmod +x instalador.sh
-./instalador.sh
+chmod +x dev-setup.sh
+./dev-setup.sh
 ```
 
 ## 🚦 Observações importantes
