@@ -50,7 +50,7 @@ Um script simples e automatizado para instalar aplicativos essenciais no **Linux
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/seu-usuario/mint-dev-setup.git
+git clone https://github.com/jaoAprendiz/mint-dev-setup.git
 ```
 
 2. **Acesse a pasta do projeto:**
@@ -75,7 +75,7 @@ chmod +x dev-setup.sh
 Se preferir sem usar git, execute diretamente:
 
 ```bash
-wget https://raw.githubusercontent.com/seu-usuario/mint-dev-setup/main/instalador.sh
+wget https://raw.githubusercontent.com/jaoAprendiz/mint-dev-setup/main/instalador.sh
 chmod +x dev-setup.sh
 ./dev-setup.sh
 ```
